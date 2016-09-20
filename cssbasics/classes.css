@@ -1,0 +1,12 @@
+/* Change background color to a yellow */
+
+body{background-color: lightyellow}
+
+/*you can tag the html code you have written to identify a class */
+.important{ color:blue; }
+.Tutorial {color:green; background-color: lightgreen }
+p{color:red;}
+li{color: gold}
+/* You can also give the properties different numbers/factors */
+
+.favoriteArtists{color: blue; background-color: lightgray}

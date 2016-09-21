@@ -31,11 +31,14 @@ var year = " 2006 "
 var space = " "
 console.log(make + model + year);
 
-var makeModelYear = make + space + model + space + year;
+var makeModelYear = make + space + model + space + year; //Optional way since adding 4 different variables together//
+
 console.log(makeModelYear)
 
 //playing around with the stuff
 console.log(username + " your favorite username from wayback when. " + tweet + facebookPost);
+
+
 
 
 

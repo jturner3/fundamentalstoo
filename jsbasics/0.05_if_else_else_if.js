@@ -46,6 +46,7 @@ if (66/ 2){
 
 //Correct Way
 //Needed modulo key
+//Experiment with changing the order of conditionals
 
 var numberOne = 7;
 
@@ -58,6 +59,10 @@ if ((numberOne % 2 === 0) && (numberOne % 3 ===0)) {
 } else {
 	console.log("Number is not divisable by 2 or 3")
 }
+
+var sillytestgitvariable = "Hello";
+
+
 
 
 

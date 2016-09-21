@@ -79,6 +79,14 @@ function enterpassword(pass) {
 
 	enterpassword("bang");
 
+function numAdd(a,b){
+	return a + b; 
+}
+
+console.log(numAdd(1,2));
+console.log(numAdd("John ","Turner "));
+
+
 
 
 

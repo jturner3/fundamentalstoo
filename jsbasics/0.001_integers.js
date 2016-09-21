@@ -89,7 +89,9 @@ newNum *= 10;
 console.log(newNum)
 
 newNum /= 10;
-console.log(newNum)
+console.log(newNum) //Universal shortcuts
+
+
 
 
 

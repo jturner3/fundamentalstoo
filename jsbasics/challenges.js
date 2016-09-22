@@ -9,15 +9,11 @@ Horus();
 
 //Silver
 
-function budgetBuddy (x) {
-	var rent = 450;
-	var utilities = 200;
-	var insurance = 115;
-	var food = 100;
-	console.log(rent + utilities + insurance + food)
+function monthlyBills(rent,utilities,insurance,food){
+	return rent + utilities + insurance + food;
 }
 
-budgetBuddy();
+console.log(monthlyBills(200, 50, 1000, 500));
 
 //Gold
 

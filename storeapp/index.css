@@ -1,2 +1,18 @@
-.headingTitle {text-align: center}
-head {text-align: center}
+.titleBar {text-align: center;
+			border: 3px red
+			margin: 50px 50px 50px 50px;}
+.navBar {text-align: center;
+		color: yellow}
+.pictures {
+	display:  block;
+	text-align: center;
+	text-align: center
+}
+.motto { text-align: center;
+		color: red;
+		display: bold;
+}
+.people {text-align: center;
+		color: purple;}
+.storeType {text-align: center;
+			color: blue;}

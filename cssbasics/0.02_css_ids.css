@@ -1,5 +1,7 @@
 /*body {background-color: lightgray}*/
 .header1 {font: bold;}
+.header2 {font-size: 25;
+			color: yellow; }
 .ul1 {font:bold;}
 #number1{color: red;font-size: 36px;font-family: verdana}
 #number2{color: blue;

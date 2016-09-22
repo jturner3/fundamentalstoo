@@ -42,3 +42,13 @@ function favoriteSong(){
 	document.getElementById("best").innerHTML = "Big Daddy Ye";
 	document.getElementById("worst").innerHTML = "XO till we Overdose"
 }
+favoriteSong();
+
+//Own Examples
+
+function favoriteMovie(){
+	document.getElementById("one").innerHTML = "The big Antz";
+	document.getElementById("two").innerHTML = "Buggy Life";
+	document.getElementById("three").innerHTML = "Big Boat Ship";
+}
+favoriteMovie();

@@ -1,8 +1,8 @@
-.titleBar {text-align: center;
-			border: 3px red
-			margin: 50px 50px 50px 50px;}
 .navBar {text-align: center;
-		color: yellow}
+		color: green;
+		font-size: 20px;
+		font-family: verdana;
+	}
 .pictures {
 	display:  block;
 	text-align: center;
